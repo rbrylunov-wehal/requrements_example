@@ -9,5 +9,3 @@
 [Product2]()
 
   * [Product 2 main page](Product2/product2.md)
-
-[About]()
